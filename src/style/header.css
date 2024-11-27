@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100%;
+  height: auto;
+  background-color: #894b1f !important;
+  padding: 25px;
+}
+.navbar-brand {
+  font-size: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.nav-link {
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.drop-nav {
+  color: #ffffff;
+}
+
+.navbar-toggler {
+  background-color: #ffffff !important;
+}
