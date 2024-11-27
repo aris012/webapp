@@ -13,14 +13,14 @@ Develop the site for client has been pursuing candle-making as a hobby and has s
 
 ### Business Requirements:
 
-• Website must support the listing of various candle products with detailed, description, images, and prices.
-• Enhance visibility and allow client to display her social media platforms on the website.
-• Responsive website for optimal user experience.
-• Content management.
-• Branding and Aesthetic, the design should reflect the client’s brand identity.
-• User-friendly navigation.
-• Contact and support.
-• The website should accommodate future growth of the business.
+        • Website must support the listing of various candle products with detailed, description, images, and prices.
+        • Enhance visibility and allow client to display her social media platforms on the website.
+        • Responsive website for optimal user experience.
+        • Content management.
+        • Branding and Aesthetic, the design should reflect the client’s brand identity.
+        • User-friendly navigation.
+        • Contact and support.
+        • The website should accommodate future growth of the business.
 
 ### Stakeholder Requirements:
 
